@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=insane0011" alt="Harsha-057" /></a> </p>
 
-- 🔭 I’m currently working on **PYTHON**
+- 🔭 I’m currently working on **JAVA**
 
 - 🌱 I’m currently learning **JS**
 
