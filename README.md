@@ -1,6 +1,6 @@
 # Harsha Kumar Sambangi
 
-![Harsha Kumar Sambangi](https://avatars.githubusercontent.com/u/harsha-057) <!-- Add your profile image link if available -->
+![Harsha Kumar Sambangi](https://avatars.githubusercontent.com/u/harsha-057)
 
 ## 🌟 About Me
 
