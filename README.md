@@ -1,71 +1,21 @@
-# Harsha Kumar Sambangi
+# 💫 About Me:
+Hello! I'm Harsha Kumar Sambangi, a passionate and versatile professional with expertise in UI&UX Design, Web Development, Machine Learning, Artificial Intelligence, Product Management, and Event Management. My goal is to leverage my diverse skill set to create innovative solutions and deliver exceptional user experiences.
 
 
-## 🌟 About Me
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/still.insane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshakumarsambangi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshakumar2582003@gmail.com) 
 
-Hello! I'm **Harsha Kumar Sambangi**, a passionate and versatile professional with expertise in **UI&UX Design, Web Development, Machine Learning, Artificial Intelligence, Product Management, and Event Management**. My goal is to leverage my diverse skill set to create innovative solutions and deliver exceptional user experiences.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=plastic&logo=ovh&logoColor=#123F6D) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=plastic&logo=nuxt.js&logoColor=#00DC82) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=plastic&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Harsha-057&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Harsha-057&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-057&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 📫 Contact Information
-
-- **Email:** [harshakumar2582003@gmail.com](mailto:harshakumar2582003@gmail.com)
-- **LinkedIn:** [harshakumarsambangi](https://www.linkedin.com/in/harshakumarsambangi)
-- **GitHub:** [harsha-057](https://github.com/harsha-057)
-
----
-
-## 🛠 Skills
-
-### **Design and Development**
-
-- **UI/UX Design:** Crafting intuitive and visually appealing user interfaces.
-- **Web Development:** Building responsive and interactive websites using HTML, CSS, JavaScript, and modern frameworks.
-
-### **Data Science and AI**
-
-- **Machine Learning:** Developing predictive models and implementing algorithms to solve real-world problems.
-- **Artificial Intelligence:** Leveraging AI techniques to create smart and adaptive systems.
-
-### **Management and Leadership**
-
-- **Product Management:** Overseeing product lifecycle from concept to launch, ensuring alignment with user needs and business goals.
-- **Event Management:** Organizing and managing events to create memorable and impactful experiences.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Harsha-057&icon=10&color=0)](https://visitcount.itsvg.in)
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsha-057&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-057&layout=compact&theme=radical)
-
-![Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=harsha-057&theme=radical)
-
----
-
-## 🏆 Achievements
-
-- **Contributions:** ![GitHub Contributions](https://komarev.com/ghpvc/?username=harsha-057&color=brightgreen)
-- **Repositories:** ![GitHub Repositories](https://badges.pufler.dev/repos/harsha-057)
-- **Commits:** ![GitHub Commits](https://badges.pufler.dev/commits/monthly/harsha-057)
-
----
-
-## 🌐 Let's Connect
-
-I'm always excited to connect with like-minded professionals and explore new opportunities. Feel free to reach out to me via email or connect with me on LinkedIn. You can also check out my GitHub for more projects and code samples.
-
-- **Email:** [harshakumar2582003@gmail.com](mailto:harshakumar2582003@gmail.com)
-- **LinkedIn:** [harshakumarsambangi](https://www.linkedin.com/in/harshakumarsambangi)
-- **GitHub:** [harsha-057](https://github.com/harsha-057)
-
----
-
-*Empowering innovation through design, development, and management.* 🚀
-
-![Footer](https://img.shields.io/badge/Empowering_Innovation-Through_Design_Development_Management-blueviolet?style=for-the-badge)
-
----
-
-### License
-
-This profile is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
