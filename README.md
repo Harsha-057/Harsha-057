@@ -9,61 +9,43 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A97CF8&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;Full+Stack+Web+Developer;AI+%2F+ML+Engineer;Product+Manager" alt="Typing SVG" />
 </p>
 
----
+## Overview
+I bridge the gap between **Complex Engineering** and **Intuitive Design**, building products that are functional, scalable, and user-centric.
 
-## 🚀 Overview
-I am a versatile tech professional bridging the gap between **Complex Engineering** and **Intuitive Design**. With expertise across the full stack and AI integration, I build products that are not only functional but delightful to use.
-
-- 🔭 **Current Focus:** Scaling AI-driven user experiences and robust web architectures.
-- ⚡ **Philosophy:** "Design like you're right, test like you're wrong."
-- 🏢 **Professionalism:** Experienced in Product & Event Management, ensuring seamless delivery from concept to execution.
+- **Current Focus:** Scaling AI-driven user experiences and robust web architectures.
+- **Philosophy:** "Design like you're right, test like you're wrong."
+- **Management:** Experienced in Product & Event Management, ensuring seamless concept-to-execution delivery.
 
 ---
 
-## 🛠️ Modern Tech Stack
+## Modern Tech Stack
 
 ### **Design & Strategy**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma,adobe xd,ae,ps" alt="Design Stack" />
+  <img src="https://skillicons.dev/icons?i=figma,xd,ae,ps,postman,jira" />
 </p>
 
 ### **Development & Cloud**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=py,js,java,react,vue,nextjs,django,nodejs,tailwind,bootstrap" alt="Dev Stack" />
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,nginx,mongodb,postgres,mysql,redis" alt="Infra Stack" />
+  <img src="https://skillicons.dev/icons?i=py,js,java,react,vue,nextjs,django,nodejs,tailwind,bootstrap" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,nginx,mongodb,postgres,mysql,redis" />
 </p>
 
 ### **AI & Data Science**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pandas,anaconda" alt="AI Stack" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,anaconda" />
 </p>
 
 ---
-
-## 📊 Performance Metrics
-
+# GitHub Stats:
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harsha-057&show_icons=true&theme=transparent&hide_border=true&title_color=A97CF8&icon_color=A97CF8&text_color=ffffff" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-057&layout=compact&theme=transparent&hide_border=true&title_color=A97CF8&text_color=ffffff" />
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Harsha-057&theme=dark&hide_border=false" />
 </p>
 
+### Random Dev Quote
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=Harsha-057&theme=transparent&hide_border=true&stroke=A97CF8&ring=A97CF8&fire=A97CF8&currStreakLabel=A97CF8" />
-</p>
-
----
-
-## 🏆 Accomplishments & Recognition
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harsha-057&theme=dracula&no-bg=true&no-frame=true&column=4" />
-</p>
-
----
-
-## ✍️ Dev Wisdom
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&text_color=A97CF8" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 <p align="right">
