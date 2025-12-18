@@ -1,13 +1,17 @@
-# <p align="center">✨ Harsha Kumar Sambangi</p>
-<p align="center">
-  <a href="https://linkedin.com/in/harshakumarsambangi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:harshakumar2582003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Harsha-057&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+<div align="center">
+  <h1>नमस्ते (Namaste), I'm <a href="https://linkedin.com/in/harshakumarsambangi">Harsha Kumar Sambangi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A97CF8&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;Full+Stack+Web+Developer;AI+%2F+ML+Engineer;Product+Manager" alt="Typing SVG" />
-</p>
+  <p align='center'>
+    <a href="https://linkedin.com/in/harshakumarsambangi"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>  
+    <a href="mailto:harshakumar2582003@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"></a>  
+  </p>
+
+  <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 UI/UX Designer | 💻 Full Stack Dev | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A97CF8&center=true&vCenter=true&width=435&lines=Building+Digital+Experiences;AI+%2F+ML+Enthusiast;Product+%26+Event+Manager" alt="Typing SVG" />
+</div>
+
+<br />
 
 ## Overview
 I bridge the gap between **Complex Engineering** and **Intuitive Design**, building products that are functional, scalable, and user-centric.
