@@ -43,7 +43,7 @@ I bridge the gap between **Complex Engineering** and **Intuitive Design**, build
 ---
 # GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-057&theme=transparent&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=harsha-057&theme=dark"/>
 </p>
 
 ### Random Dev Quote
