@@ -43,8 +43,7 @@ I bridge the gap between **Complex Engineering** and **Intuitive Design**, build
 ---
 # GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsha-057&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-057&layout=compact&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-057&theme=transparent&hide_border=true"/>
 </p>
 
 ### Random Dev Quote
