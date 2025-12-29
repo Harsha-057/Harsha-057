@@ -41,10 +41,6 @@ I bridge the gap between **Complex Engineering** and **Intuitive Design**, build
 </p>
 
 ---
-# GitHub Stats:
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harsha-057&theme=dark"/>
-</p>
 
 ### Random Dev Quote
 <p align="center">
